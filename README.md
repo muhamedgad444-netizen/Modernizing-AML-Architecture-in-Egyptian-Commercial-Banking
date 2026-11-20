@@ -2,6 +2,12 @@
 
 > **Modernizing Anti-Money Laundering (AML) Architecture in Egyptian Commercial Banking**  
 > Built for **CBE** (Central Bank of Egypt) & **EMLCU Law No. 80** compliance across **IPN / InstaPay**, mobile wallets, and interbank transfers.
+>
+> **Live Production Demo (Vercel):** [https://modernizing-aml-architecture-in-egy.vercel.app/](https://modernizing-aml-architecture-in-egy.vercel.app/)
+
+[![Live Demo on Vercel](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://modernizing-aml-architecture-in-egy.vercel.app/)
+[![CBE / EMLCU Law No. 80](https://img.shields.io/badge/Compliance-CBE_%2F_EMLCU_Law_No._80-0b1f3f?style=for-the-badge)](#four-tier-system-architecture)
+[![Real Data](https://img.shields.io/badge/Dataset-IBM_AMLworld_%2F_SAML--D-059669?style=for-the-badge)](#real-data-training--honest-held-out-evaluation)
 
 ---
 
